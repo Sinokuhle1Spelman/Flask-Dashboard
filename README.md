@@ -28,14 +28,12 @@ Technologies Used
 
  Project Structure
 
-flask-dashboard/
-│
-├── app.py
-├── requirements.txt
-├── database.db
-│
-├── templates/
-├── static/
+flask-dashboard
+ app.py
+ requirements.txt
+ database.db
+ templates
+ static
 
 
 How to Run the Project
